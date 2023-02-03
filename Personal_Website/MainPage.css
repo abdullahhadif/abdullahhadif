@@ -1,0 +1,67 @@
+/* about me external CSS */
+
+/* CSS for picture and frame */
+
+#pic img {
+	   float : center;
+	   width:100%;
+	   height : 100%;
+      }
+	  
+#frame
+	{
+	 width: 150px;
+     height: 180px;
+     border: 3px solid #f0efeb;
+     
+     margin: auto;
+     padding-top: 1px 1px;
+	 }
+
+/*  CSS for background color */
+	 
+#main {
+       width : 70%;
+	   margin : auto;
+	   position : center;
+	   padding:10px 5px 15px 20px;
+	   
+}
+
+#header {
+          background-color : #002642;
+		  height : 650px;
+		  color : white;
+		  position : center;
+}
+
+
+/* Link to other pages */
+
+#nav {
+	   height : 40px;
+}
+
+#nav ul {
+	     padding-top:10px;
+}
+
+#nav li {
+	   display : inline;
+	   padding-right : 30px;
+	   font-size : 20px;
+}
+
+#nav a{
+	   color : white; 
+	   font-weight : bold;
+	   text-decoration : none;
+}
+
+#nav a:hover{color: #f3ffbd;}
+
+
+		
+
+
+

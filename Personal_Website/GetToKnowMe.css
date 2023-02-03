@@ -1,0 +1,55 @@
+/* GetToKnowMe external CSS */
+
+/* CSS for picture and frame */
+
+#picture2
+	 {
+	   width:100%;
+	   height:100%;
+	 }
+
+#border
+	{
+	 width: 150px;
+     height: 200px;
+     border: 3px solid #f0efeb;
+     
+     margin: auto;
+     padding: 1px 1px;
+	 }
+
+/* CSS for column */
+
+#education
+	 {
+	  column-count:2;
+	  column-gap:40px;
+	  column-width:100px;
+	  column-rule-style:solid;
+	  column-rule-width:2px;
+	  column-rule-color:white;
+	  }
+
+/* Link to other pages */
+	  
+#nav {
+	   height : 40px;
+}
+
+#nav ul {
+	     padding-top:10px;
+}
+
+#nav li {
+	   display : inline;
+	   padding-right : 30px;
+	   font-size : 20px;
+}
+
+#nav a{
+	   color : white; 
+	   font-weight : bold;
+	   text-decoration : none;
+}
+
+#nav a:hover{color: #f3ffbd;}

@@ -1,0 +1,71 @@
+/* HowToReachMe external CSS */
+
+/*  CSS for background color */
+
+#contactmain {
+	width : 70%;
+	margin : auto;
+	padding : 10px 5px 15px 20px;
+	position : center;
+}
+
+#contactheader {
+	background-color : #457b9d;
+	height : 700px;
+	position : center;
+}
+
+/* Link to social media */
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+	color : yellow;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+/* Link to other pages */
+
+#nav {
+	   height : 40px;
+}
+
+#nav ul {
+	     padding-top:10px;
+}
+
+#nav li {
+	   display : inline;
+	   padding-right : 30px;
+	   font-size : 20px;
+}
+
+#nav a{
+	   color : white; 
+	   font-weight : bold;
+	   text-decoration : none;
+}
+
+#nav a:hover{color: #f3ffbd;}

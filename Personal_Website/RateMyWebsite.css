@@ -1,0 +1,40 @@
+/* RateMyWebsite external CSS */
+
+/*  CSS for background color */
+
+#ratemain {
+	width : 70%;
+	margin : auto;
+	padding : 10px 5px 15px 20px;
+	position : center;
+}
+
+#rateheader {
+	background-color : #6096ba;
+	height : 700px;
+	position : center;
+}
+
+/* Link to other pages */
+
+#nav {
+	   height : 40px;
+}
+
+#nav ul {
+	     padding-top:10px;
+}
+
+#nav li {
+	   display : inline;
+	   padding-right : 30px;
+	   font-size : 20px;
+}
+
+#nav a{
+	   color : white; 
+	   font-weight : bold;
+	   text-decoration : none;
+}
+
+#nav a:hover{color: #f3ffbd;}
